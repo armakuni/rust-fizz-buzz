@@ -1,4 +1,4 @@
-# Fizz BUzz using Rust
+# Fizz Buzz using Rust
 To run:
 ```
 cargo run
